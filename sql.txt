@@ -1,0 +1,29 @@
+queryrestbyid == 城市数据没有获取
+		 营业状态
+
+
+
+
+
+
+解决：
+restaurant 增加 descript字段
+
+
+
+订单排序
+
+
+
+
+□ 	控制面板 	： 	点击进入JSP控制面板
+□ 	赠送域名 	： 	http://rhuie03913.jsp.jspee.cn/
+□ 	I P 	： 	电信:183.61.253.136 联通:122.13.166.136
+□ 	FTP端口 	： 	21
+□ 	FTP帐号 	： 	rhuie03913
+□ 	FTP密码 	： 	oxq2810
+□ 	数据库类型 	： 	Mysql 5.4.3
+□ 	数据库帐号 	： 	sq_rhuie03913
+□ 	数据库密码 	： 	eam312
+□ 	数据库名称 	： 	sq_rhuie03913
+□ 	数据库端口 	： 	3306 
